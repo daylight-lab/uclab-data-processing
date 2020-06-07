@@ -1,8 +1,8 @@
 ,Country 1,Country 2,Similarity
 0,China,Hong Kong,0.0001030290541932825
 1,Hong Kong,China,0.0001030290541932825
-2,"Korea, Republic of",Turkey,0.00164846486709252
-3,Turkey,"Korea, Republic of",0.00164846486709252
+2,Korea,Turkey,0.00164846486709252
+3,Turkey,Korea,0.00164846486709252
 4,China,India,0.000206058108386565
 5,China,Malaysia,0.000206058108386565
 6,China,Viet Nam,0.000206058108386565
@@ -23,8 +23,8 @@
 21,South Africa,India,0.000206058108386565
 22,South Africa,Malaysia,0.000206058108386565
 23,South Africa,Viet Nam,0.000206058108386565
-24,Japan,"Korea, Republic of",0.0001030290541932825
-25,"Korea, Republic of",Japan,0.0001030290541932825
+24,Japan,Korea,0.0001030290541932825
+25,Korea,Japan,0.0001030290541932825
 26,Bulgaria,India,0.0001030290541932825
 27,Bulgaria,Netherlands,0.0001030290541932825
 28,Bulgaria,New Zealand,0.0001030290541932825
@@ -41,21 +41,21 @@
 39,New Zealand,Hungary,0.0001030290541932825
 40,China,Netherlands,0.0001030290541932825
 41,Netherlands,China,0.0001030290541932825
-42,India,Russian Federation,0.0001030290541932825
+42,India,Russia,0.0001030290541932825
 43,India,Turkey,0.0001030290541932825
-44,Russian Federation,India,0.0001030290541932825
-45,Russian Federation,Turkey,0.0001030290541932825
+44,Russia,India,0.0001030290541932825
+45,Russia,Turkey,0.0001030290541932825
 46,Turkey,India,0.0001030290541932825
-47,Turkey,Russian Federation,0.0001030290541932825
-48,United States,"Korea, Republic of",0.0
+47,Turkey,Russia,0.0001030290541932825
+48,United States,Korea,0.0
 49,United States,Spain,0.0
 50,United States,South Africa,0.0
 51,United States,Czechia,0.0
 52,United States,Poland,0.0
 53,United States,Malaysia,0.0
-54,United States,Russian Federation,0.0
+54,United States,Russia,0.0
 55,United States,China,0.0
-56,United States,"Taiwan, Province of China",0.0
+56,United States,Taiwan,0.0
 57,United States,Bulgaria,0.0
 58,United States,Hong Kong,0.0
 59,United States,Romania,0.0
@@ -91,63 +91,63 @@
 89,United States,Portugal,0.0
 90,United States,Denmark,0.0
 91,United States,Israel,0.0
-92,United States,"Moldova, Republic of",0.0
+92,United States,Moldova,0.0
 93,United States,Austria,0.0
 94,United States,Seychelles,0.0
-95,"Korea, Republic of",United States,0.0
-96,"Korea, Republic of",Spain,0.0
-97,"Korea, Republic of",South Africa,0.0
-98,"Korea, Republic of",Czechia,0.0
-99,"Korea, Republic of",Poland,0.0
-100,"Korea, Republic of",Malaysia,0.0
-101,"Korea, Republic of",Russian Federation,0.0
-102,"Korea, Republic of",China,0.0
-103,"Korea, Republic of","Taiwan, Province of China",0.0
-104,"Korea, Republic of",Bulgaria,0.0
-105,"Korea, Republic of",Hong Kong,0.0
-106,"Korea, Republic of",Romania,0.0
-107,"Korea, Republic of",Peru,0.0
-108,"Korea, Republic of",Hungary,0.0
-109,"Korea, Republic of",Norway,0.0
-110,"Korea, Republic of",Mexico,0.0
-111,"Korea, Republic of",Ukraine,0.0
-112,"Korea, Republic of",Netherlands,0.0
-113,"Korea, Republic of",Viet Nam,0.0
-114,"Korea, Republic of",Lithuania,0.0
-115,"Korea, Republic of",Serbia,0.0
-116,"Korea, Republic of",Australia,0.0
-117,"Korea, Republic of",Kenya,0.0
-118,"Korea, Republic of",Slovakia,0.0
-119,"Korea, Republic of",India,0.0
-120,"Korea, Republic of",Chile,0.0
-121,"Korea, Republic of",Canada,0.0
-122,"Korea, Republic of",Liechtenstein,0.0
-123,"Korea, Republic of",Singapore,0.0
-124,"Korea, Republic of",Indonesia,0.0
-125,"Korea, Republic of",New Zealand,0.0
-126,"Korea, Republic of",Luxembourg,0.0
-127,"Korea, Republic of",Belize,0.0
-128,"Korea, Republic of",Colombia,0.0
-129,"Korea, Republic of",Brazil,0.0
-130,"Korea, Republic of",Sweden,0.0
-131,"Korea, Republic of",Iceland,0.0
-132,"Korea, Republic of",Finland,0.0
-133,"Korea, Republic of",Algeria,0.0
-134,"Korea, Republic of",Portugal,0.0
-135,"Korea, Republic of",Denmark,0.0
-136,"Korea, Republic of",Israel,0.0
-137,"Korea, Republic of","Moldova, Republic of",0.0
-138,"Korea, Republic of",Austria,0.0
-139,"Korea, Republic of",Seychelles,0.0
+95,Korea,United States,0.0
+96,Korea,Spain,0.0
+97,Korea,South Africa,0.0
+98,Korea,Czechia,0.0
+99,Korea,Poland,0.0
+100,Korea,Malaysia,0.0
+101,Korea,Russia,0.0
+102,Korea,China,0.0
+103,Korea,Taiwan,0.0
+104,Korea,Bulgaria,0.0
+105,Korea,Hong Kong,0.0
+106,Korea,Romania,0.0
+107,Korea,Peru,0.0
+108,Korea,Hungary,0.0
+109,Korea,Norway,0.0
+110,Korea,Mexico,0.0
+111,Korea,Ukraine,0.0
+112,Korea,Netherlands,0.0
+113,Korea,Viet Nam,0.0
+114,Korea,Lithuania,0.0
+115,Korea,Serbia,0.0
+116,Korea,Australia,0.0
+117,Korea,Kenya,0.0
+118,Korea,Slovakia,0.0
+119,Korea,India,0.0
+120,Korea,Chile,0.0
+121,Korea,Canada,0.0
+122,Korea,Liechtenstein,0.0
+123,Korea,Singapore,0.0
+124,Korea,Indonesia,0.0
+125,Korea,New Zealand,0.0
+126,Korea,Luxembourg,0.0
+127,Korea,Belize,0.0
+128,Korea,Colombia,0.0
+129,Korea,Brazil,0.0
+130,Korea,Sweden,0.0
+131,Korea,Iceland,0.0
+132,Korea,Finland,0.0
+133,Korea,Algeria,0.0
+134,Korea,Portugal,0.0
+135,Korea,Denmark,0.0
+136,Korea,Israel,0.0
+137,Korea,Moldova,0.0
+138,Korea,Austria,0.0
+139,Korea,Seychelles,0.0
 140,Spain,United States,0.0
-141,Spain,"Korea, Republic of",0.0
+141,Spain,Korea,0.0
 142,Spain,South Africa,0.0
 143,Spain,Czechia,0.0
 144,Spain,Poland,0.0
 145,Spain,Malaysia,0.0
-146,Spain,Russian Federation,0.0
+146,Spain,Russia,0.0
 147,Spain,China,0.0
-148,Spain,"Taiwan, Province of China",0.0
+148,Spain,Taiwan,0.0
 149,Spain,Bulgaria,0.0
 150,Spain,Hong Kong,0.0
 151,Spain,Romania,0.0
@@ -183,16 +183,16 @@
 181,Spain,Portugal,0.0
 182,Spain,Denmark,0.0
 183,Spain,Israel,0.0
-184,Spain,"Moldova, Republic of",0.0
+184,Spain,Moldova,0.0
 185,Spain,Austria,0.0
 186,Spain,Seychelles,0.0
 187,South Africa,United States,0.0
-188,South Africa,"Korea, Republic of",0.0
+188,South Africa,Korea,0.0
 189,South Africa,Spain,0.0
 190,South Africa,Czechia,0.0
 191,South Africa,Poland,0.0
-192,South Africa,Russian Federation,0.0
-193,South Africa,"Taiwan, Province of China",0.0
+192,South Africa,Russia,0.0
+193,South Africa,Taiwan,0.0
 194,South Africa,Bulgaria,0.0
 195,South Africa,Hong Kong,0.0
 196,South Africa,Romania,0.0
@@ -226,18 +226,18 @@
 224,South Africa,Portugal,0.0
 225,South Africa,Denmark,0.0
 226,South Africa,Israel,0.0
-227,South Africa,"Moldova, Republic of",0.0
+227,South Africa,Moldova,0.0
 228,South Africa,Austria,0.0
 229,South Africa,Seychelles,0.0
 230,Czechia,United States,0.0
-231,Czechia,"Korea, Republic of",0.0
+231,Czechia,Korea,0.0
 232,Czechia,Spain,0.0
 233,Czechia,South Africa,0.0
 234,Czechia,Poland,0.0
 235,Czechia,Malaysia,0.0
-236,Czechia,Russian Federation,0.0
+236,Czechia,Russia,0.0
 237,Czechia,China,0.0
-238,Czechia,"Taiwan, Province of China",0.0
+238,Czechia,Taiwan,0.0
 239,Czechia,Bulgaria,0.0
 240,Czechia,Hong Kong,0.0
 241,Czechia,Romania,0.0
@@ -273,18 +273,18 @@
 271,Czechia,Portugal,0.0
 272,Czechia,Denmark,0.0
 273,Czechia,Israel,0.0
-274,Czechia,"Moldova, Republic of",0.0
+274,Czechia,Moldova,0.0
 275,Czechia,Austria,0.0
 276,Czechia,Seychelles,0.0
 277,Poland,United States,0.0
-278,Poland,"Korea, Republic of",0.0
+278,Poland,Korea,0.0
 279,Poland,Spain,0.0
 280,Poland,South Africa,0.0
 281,Poland,Czechia,0.0
 282,Poland,Malaysia,0.0
-283,Poland,Russian Federation,0.0
+283,Poland,Russia,0.0
 284,Poland,China,0.0
-285,Poland,"Taiwan, Province of China",0.0
+285,Poland,Taiwan,0.0
 286,Poland,Bulgaria,0.0
 287,Poland,Hong Kong,0.0
 288,Poland,Romania,0.0
@@ -320,16 +320,16 @@
 318,Poland,Portugal,0.0
 319,Poland,Denmark,0.0
 320,Poland,Israel,0.0
-321,Poland,"Moldova, Republic of",0.0
+321,Poland,Moldova,0.0
 322,Poland,Austria,0.0
 323,Poland,Seychelles,0.0
 324,Malaysia,United States,0.0
-325,Malaysia,"Korea, Republic of",0.0
+325,Malaysia,Korea,0.0
 326,Malaysia,Spain,0.0
 327,Malaysia,Czechia,0.0
 328,Malaysia,Poland,0.0
-329,Malaysia,Russian Federation,0.0
-330,Malaysia,"Taiwan, Province of China",0.0
+329,Malaysia,Russia,0.0
+330,Malaysia,Taiwan,0.0
 331,Malaysia,Bulgaria,0.0
 332,Malaysia,Hong Kong,0.0
 333,Malaysia,Romania,0.0
@@ -363,61 +363,61 @@
 361,Malaysia,Portugal,0.0
 362,Malaysia,Denmark,0.0
 363,Malaysia,Israel,0.0
-364,Malaysia,"Moldova, Republic of",0.0
+364,Malaysia,Moldova,0.0
 365,Malaysia,Austria,0.0
 366,Malaysia,Seychelles,0.0
-367,Russian Federation,United States,0.0
-368,Russian Federation,"Korea, Republic of",0.0
-369,Russian Federation,Spain,0.0
-370,Russian Federation,South Africa,0.0
-371,Russian Federation,Czechia,0.0
-372,Russian Federation,Poland,0.0
-373,Russian Federation,Malaysia,0.0
-374,Russian Federation,China,0.0
-375,Russian Federation,"Taiwan, Province of China",0.0
-376,Russian Federation,Bulgaria,0.0
-377,Russian Federation,Hong Kong,0.0
-378,Russian Federation,Romania,0.0
-379,Russian Federation,Peru,0.0
-380,Russian Federation,Hungary,0.0
-381,Russian Federation,Norway,0.0
-382,Russian Federation,Mexico,0.0
-383,Russian Federation,Ukraine,0.0
-384,Russian Federation,Netherlands,0.0
-385,Russian Federation,Viet Nam,0.0
-386,Russian Federation,Japan,0.0
-387,Russian Federation,Lithuania,0.0
-388,Russian Federation,Serbia,0.0
-389,Russian Federation,Australia,0.0
-390,Russian Federation,Kenya,0.0
-391,Russian Federation,Slovakia,0.0
-392,Russian Federation,Chile,0.0
-393,Russian Federation,Canada,0.0
-394,Russian Federation,Liechtenstein,0.0
-395,Russian Federation,Singapore,0.0
-396,Russian Federation,Indonesia,0.0
-397,Russian Federation,New Zealand,0.0
-398,Russian Federation,Luxembourg,0.0
-399,Russian Federation,Belize,0.0
-400,Russian Federation,Colombia,0.0
-401,Russian Federation,Brazil,0.0
-402,Russian Federation,Sweden,0.0
-403,Russian Federation,Iceland,0.0
-404,Russian Federation,Finland,0.0
-405,Russian Federation,Algeria,0.0
-406,Russian Federation,Portugal,0.0
-407,Russian Federation,Denmark,0.0
-408,Russian Federation,Israel,0.0
-409,Russian Federation,"Moldova, Republic of",0.0
-410,Russian Federation,Austria,0.0
-411,Russian Federation,Seychelles,0.0
+367,Russia,United States,0.0
+368,Russia,Korea,0.0
+369,Russia,Spain,0.0
+370,Russia,South Africa,0.0
+371,Russia,Czechia,0.0
+372,Russia,Poland,0.0
+373,Russia,Malaysia,0.0
+374,Russia,China,0.0
+375,Russia,Taiwan,0.0
+376,Russia,Bulgaria,0.0
+377,Russia,Hong Kong,0.0
+378,Russia,Romania,0.0
+379,Russia,Peru,0.0
+380,Russia,Hungary,0.0
+381,Russia,Norway,0.0
+382,Russia,Mexico,0.0
+383,Russia,Ukraine,0.0
+384,Russia,Netherlands,0.0
+385,Russia,Viet Nam,0.0
+386,Russia,Japan,0.0
+387,Russia,Lithuania,0.0
+388,Russia,Serbia,0.0
+389,Russia,Australia,0.0
+390,Russia,Kenya,0.0
+391,Russia,Slovakia,0.0
+392,Russia,Chile,0.0
+393,Russia,Canada,0.0
+394,Russia,Liechtenstein,0.0
+395,Russia,Singapore,0.0
+396,Russia,Indonesia,0.0
+397,Russia,New Zealand,0.0
+398,Russia,Luxembourg,0.0
+399,Russia,Belize,0.0
+400,Russia,Colombia,0.0
+401,Russia,Brazil,0.0
+402,Russia,Sweden,0.0
+403,Russia,Iceland,0.0
+404,Russia,Finland,0.0
+405,Russia,Algeria,0.0
+406,Russia,Portugal,0.0
+407,Russia,Denmark,0.0
+408,Russia,Israel,0.0
+409,Russia,Moldova,0.0
+410,Russia,Austria,0.0
+411,Russia,Seychelles,0.0
 412,China,United States,0.0
-413,China,"Korea, Republic of",0.0
+413,China,Korea,0.0
 414,China,Spain,0.0
 415,China,Czechia,0.0
 416,China,Poland,0.0
-417,China,Russian Federation,0.0
-418,China,"Taiwan, Province of China",0.0
+417,China,Russia,0.0
+418,China,Taiwan,0.0
 419,China,Bulgaria,0.0
 420,China,Romania,0.0
 421,China,Peru,0.0
@@ -449,66 +449,66 @@
 447,China,Portugal,0.0
 448,China,Denmark,0.0
 449,China,Israel,0.0
-450,China,"Moldova, Republic of",0.0
+450,China,Moldova,0.0
 451,China,Austria,0.0
 452,China,Seychelles,0.0
-453,"Taiwan, Province of China",United States,0.0
-454,"Taiwan, Province of China","Korea, Republic of",0.0
-455,"Taiwan, Province of China",Spain,0.0
-456,"Taiwan, Province of China",South Africa,0.0
-457,"Taiwan, Province of China",Czechia,0.0
-458,"Taiwan, Province of China",Poland,0.0
-459,"Taiwan, Province of China",Malaysia,0.0
-460,"Taiwan, Province of China",Russian Federation,0.0
-461,"Taiwan, Province of China",China,0.0
-462,"Taiwan, Province of China",Bulgaria,0.0
-463,"Taiwan, Province of China",Hong Kong,0.0
-464,"Taiwan, Province of China",Romania,0.0
-465,"Taiwan, Province of China",Peru,0.0
-466,"Taiwan, Province of China",Hungary,0.0
-467,"Taiwan, Province of China",Norway,0.0
-468,"Taiwan, Province of China",Mexico,0.0
-469,"Taiwan, Province of China",Ukraine,0.0
-470,"Taiwan, Province of China",Netherlands,0.0
-471,"Taiwan, Province of China",Viet Nam,0.0
-472,"Taiwan, Province of China",Japan,0.0
-473,"Taiwan, Province of China",Lithuania,0.0
-474,"Taiwan, Province of China",Serbia,0.0
-475,"Taiwan, Province of China",Australia,0.0
-476,"Taiwan, Province of China",Kenya,0.0
-477,"Taiwan, Province of China",Slovakia,0.0
-478,"Taiwan, Province of China",India,0.0
-479,"Taiwan, Province of China",Chile,0.0
-480,"Taiwan, Province of China",Canada,0.0
-481,"Taiwan, Province of China",Liechtenstein,0.0
-482,"Taiwan, Province of China",Singapore,0.0
-483,"Taiwan, Province of China",Indonesia,0.0
-484,"Taiwan, Province of China",New Zealand,0.0
-485,"Taiwan, Province of China",Luxembourg,0.0
-486,"Taiwan, Province of China",Belize,0.0
-487,"Taiwan, Province of China",Colombia,0.0
-488,"Taiwan, Province of China",Turkey,0.0
-489,"Taiwan, Province of China",Brazil,0.0
-490,"Taiwan, Province of China",Sweden,0.0
-491,"Taiwan, Province of China",Iceland,0.0
-492,"Taiwan, Province of China",Finland,0.0
-493,"Taiwan, Province of China",Algeria,0.0
-494,"Taiwan, Province of China",Portugal,0.0
-495,"Taiwan, Province of China",Denmark,0.0
-496,"Taiwan, Province of China",Israel,0.0
-497,"Taiwan, Province of China","Moldova, Republic of",0.0
-498,"Taiwan, Province of China",Austria,0.0
-499,"Taiwan, Province of China",Seychelles,0.0
+453,Taiwan,United States,0.0
+454,Taiwan,Korea,0.0
+455,Taiwan,Spain,0.0
+456,Taiwan,South Africa,0.0
+457,Taiwan,Czechia,0.0
+458,Taiwan,Poland,0.0
+459,Taiwan,Malaysia,0.0
+460,Taiwan,Russia,0.0
+461,Taiwan,China,0.0
+462,Taiwan,Bulgaria,0.0
+463,Taiwan,Hong Kong,0.0
+464,Taiwan,Romania,0.0
+465,Taiwan,Peru,0.0
+466,Taiwan,Hungary,0.0
+467,Taiwan,Norway,0.0
+468,Taiwan,Mexico,0.0
+469,Taiwan,Ukraine,0.0
+470,Taiwan,Netherlands,0.0
+471,Taiwan,Viet Nam,0.0
+472,Taiwan,Japan,0.0
+473,Taiwan,Lithuania,0.0
+474,Taiwan,Serbia,0.0
+475,Taiwan,Australia,0.0
+476,Taiwan,Kenya,0.0
+477,Taiwan,Slovakia,0.0
+478,Taiwan,India,0.0
+479,Taiwan,Chile,0.0
+480,Taiwan,Canada,0.0
+481,Taiwan,Liechtenstein,0.0
+482,Taiwan,Singapore,0.0
+483,Taiwan,Indonesia,0.0
+484,Taiwan,New Zealand,0.0
+485,Taiwan,Luxembourg,0.0
+486,Taiwan,Belize,0.0
+487,Taiwan,Colombia,0.0
+488,Taiwan,Turkey,0.0
+489,Taiwan,Brazil,0.0
+490,Taiwan,Sweden,0.0
+491,Taiwan,Iceland,0.0
+492,Taiwan,Finland,0.0
+493,Taiwan,Algeria,0.0
+494,Taiwan,Portugal,0.0
+495,Taiwan,Denmark,0.0
+496,Taiwan,Israel,0.0
+497,Taiwan,Moldova,0.0
+498,Taiwan,Austria,0.0
+499,Taiwan,Seychelles,0.0
 500,Bulgaria,United States,0.0
-501,Bulgaria,"Korea, Republic of",0.0
+501,Bulgaria,Korea,0.0
 502,Bulgaria,Spain,0.0
 503,Bulgaria,South Africa,0.0
 504,Bulgaria,Czechia,0.0
 505,Bulgaria,Poland,0.0
 506,Bulgaria,Malaysia,0.0
-507,Bulgaria,Russian Federation,0.0
+507,Bulgaria,Russia,0.0
 508,Bulgaria,China,0.0
-509,Bulgaria,"Taiwan, Province of China",0.0
+509,Bulgaria,Taiwan,0.0
 510,Bulgaria,Hong Kong,0.0
 511,Bulgaria,Romania,0.0
 512,Bulgaria,Peru,0.0
@@ -540,18 +540,18 @@
 538,Bulgaria,Portugal,0.0
 539,Bulgaria,Denmark,0.0
 540,Bulgaria,Israel,0.0
-541,Bulgaria,"Moldova, Republic of",0.0
+541,Bulgaria,Moldova,0.0
 542,Bulgaria,Austria,0.0
 543,Bulgaria,Seychelles,0.0
 544,Hong Kong,United States,0.0
-545,Hong Kong,"Korea, Republic of",0.0
+545,Hong Kong,Korea,0.0
 546,Hong Kong,Spain,0.0
 547,Hong Kong,South Africa,0.0
 548,Hong Kong,Czechia,0.0
 549,Hong Kong,Poland,0.0
 550,Hong Kong,Malaysia,0.0
-551,Hong Kong,Russian Federation,0.0
-552,Hong Kong,"Taiwan, Province of China",0.0
+551,Hong Kong,Russia,0.0
+552,Hong Kong,Taiwan,0.0
 553,Hong Kong,Bulgaria,0.0
 554,Hong Kong,Romania,0.0
 555,Hong Kong,Peru,0.0
@@ -586,19 +586,19 @@
 584,Hong Kong,Portugal,0.0
 585,Hong Kong,Denmark,0.0
 586,Hong Kong,Israel,0.0
-587,Hong Kong,"Moldova, Republic of",0.0
+587,Hong Kong,Moldova,0.0
 588,Hong Kong,Austria,0.0
 589,Hong Kong,Seychelles,0.0
 590,Romania,United States,0.0
-591,Romania,"Korea, Republic of",0.0
+591,Romania,Korea,0.0
 592,Romania,Spain,0.0
 593,Romania,South Africa,0.0
 594,Romania,Czechia,0.0
 595,Romania,Poland,0.0
 596,Romania,Malaysia,0.0
-597,Romania,Russian Federation,0.0
+597,Romania,Russia,0.0
 598,Romania,China,0.0
-599,Romania,"Taiwan, Province of China",0.0
+599,Romania,Taiwan,0.0
 600,Romania,Bulgaria,0.0
 601,Romania,Hong Kong,0.0
 602,Romania,Peru,0.0
@@ -633,19 +633,19 @@
 631,Romania,Portugal,0.0
 632,Romania,Denmark,0.0
 633,Romania,Israel,0.0
-634,Romania,"Moldova, Republic of",0.0
+634,Romania,Moldova,0.0
 635,Romania,Austria,0.0
 636,Romania,Seychelles,0.0
 637,Peru,United States,0.0
-638,Peru,"Korea, Republic of",0.0
+638,Peru,Korea,0.0
 639,Peru,Spain,0.0
 640,Peru,South Africa,0.0
 641,Peru,Czechia,0.0
 642,Peru,Poland,0.0
 643,Peru,Malaysia,0.0
-644,Peru,Russian Federation,0.0
+644,Peru,Russia,0.0
 645,Peru,China,0.0
-646,Peru,"Taiwan, Province of China",0.0
+646,Peru,Taiwan,0.0
 647,Peru,Bulgaria,0.0
 648,Peru,Hong Kong,0.0
 649,Peru,Romania,0.0
@@ -680,19 +680,19 @@
 678,Peru,Portugal,0.0
 679,Peru,Denmark,0.0
 680,Peru,Israel,0.0
-681,Peru,"Moldova, Republic of",0.0
+681,Peru,Moldova,0.0
 682,Peru,Austria,0.0
 683,Peru,Seychelles,0.0
 684,Hungary,United States,0.0
-685,Hungary,"Korea, Republic of",0.0
+685,Hungary,Korea,0.0
 686,Hungary,Spain,0.0
 687,Hungary,South Africa,0.0
 688,Hungary,Czechia,0.0
 689,Hungary,Poland,0.0
 690,Hungary,Malaysia,0.0
-691,Hungary,Russian Federation,0.0
+691,Hungary,Russia,0.0
 692,Hungary,China,0.0
-693,Hungary,"Taiwan, Province of China",0.0
+693,Hungary,Taiwan,0.0
 694,Hungary,Bulgaria,0.0
 695,Hungary,Hong Kong,0.0
 696,Hungary,Romania,0.0
@@ -726,19 +726,19 @@
 724,Hungary,Portugal,0.0
 725,Hungary,Denmark,0.0
 726,Hungary,Israel,0.0
-727,Hungary,"Moldova, Republic of",0.0
+727,Hungary,Moldova,0.0
 728,Hungary,Austria,0.0
 729,Hungary,Seychelles,0.0
 730,Norway,United States,0.0
-731,Norway,"Korea, Republic of",0.0
+731,Norway,Korea,0.0
 732,Norway,Spain,0.0
 733,Norway,South Africa,0.0
 734,Norway,Czechia,0.0
 735,Norway,Poland,0.0
 736,Norway,Malaysia,0.0
-737,Norway,Russian Federation,0.0
+737,Norway,Russia,0.0
 738,Norway,China,0.0
-739,Norway,"Taiwan, Province of China",0.0
+739,Norway,Taiwan,0.0
 740,Norway,Bulgaria,0.0
 741,Norway,Hong Kong,0.0
 742,Norway,Romania,0.0
@@ -773,19 +773,19 @@
 771,Norway,Portugal,0.0
 772,Norway,Denmark,0.0
 773,Norway,Israel,0.0
-774,Norway,"Moldova, Republic of",0.0
+774,Norway,Moldova,0.0
 775,Norway,Austria,0.0
 776,Norway,Seychelles,0.0
 777,Mexico,United States,0.0
-778,Mexico,"Korea, Republic of",0.0
+778,Mexico,Korea,0.0
 779,Mexico,Spain,0.0
 780,Mexico,South Africa,0.0
 781,Mexico,Czechia,0.0
 782,Mexico,Poland,0.0
 783,Mexico,Malaysia,0.0
-784,Mexico,Russian Federation,0.0
+784,Mexico,Russia,0.0
 785,Mexico,China,0.0
-786,Mexico,"Taiwan, Province of China",0.0
+786,Mexico,Taiwan,0.0
 787,Mexico,Bulgaria,0.0
 788,Mexico,Hong Kong,0.0
 789,Mexico,Romania,0.0
@@ -820,19 +820,19 @@
 818,Mexico,Portugal,0.0
 819,Mexico,Denmark,0.0
 820,Mexico,Israel,0.0
-821,Mexico,"Moldova, Republic of",0.0
+821,Mexico,Moldova,0.0
 822,Mexico,Austria,0.0
 823,Mexico,Seychelles,0.0
 824,Ukraine,United States,0.0
-825,Ukraine,"Korea, Republic of",0.0
+825,Ukraine,Korea,0.0
 826,Ukraine,Spain,0.0
 827,Ukraine,South Africa,0.0
 828,Ukraine,Czechia,0.0
 829,Ukraine,Poland,0.0
 830,Ukraine,Malaysia,0.0
-831,Ukraine,Russian Federation,0.0
+831,Ukraine,Russia,0.0
 832,Ukraine,China,0.0
-833,Ukraine,"Taiwan, Province of China",0.0
+833,Ukraine,Taiwan,0.0
 834,Ukraine,Bulgaria,0.0
 835,Ukraine,Hong Kong,0.0
 836,Ukraine,Romania,0.0
@@ -867,18 +867,18 @@
 865,Ukraine,Portugal,0.0
 866,Ukraine,Denmark,0.0
 867,Ukraine,Israel,0.0
-868,Ukraine,"Moldova, Republic of",0.0
+868,Ukraine,Moldova,0.0
 869,Ukraine,Austria,0.0
 870,Ukraine,Seychelles,0.0
 871,Netherlands,United States,0.0
-872,Netherlands,"Korea, Republic of",0.0
+872,Netherlands,Korea,0.0
 873,Netherlands,Spain,0.0
 874,Netherlands,South Africa,0.0
 875,Netherlands,Czechia,0.0
 876,Netherlands,Poland,0.0
 877,Netherlands,Malaysia,0.0
-878,Netherlands,Russian Federation,0.0
-879,Netherlands,"Taiwan, Province of China",0.0
+878,Netherlands,Russia,0.0
+879,Netherlands,Taiwan,0.0
 880,Netherlands,Hong Kong,0.0
 881,Netherlands,Romania,0.0
 882,Netherlands,Peru,0.0
@@ -910,16 +910,16 @@
 908,Netherlands,Portugal,0.0
 909,Netherlands,Denmark,0.0
 910,Netherlands,Israel,0.0
-911,Netherlands,"Moldova, Republic of",0.0
+911,Netherlands,Moldova,0.0
 912,Netherlands,Austria,0.0
 913,Netherlands,Seychelles,0.0
 914,Viet Nam,United States,0.0
-915,Viet Nam,"Korea, Republic of",0.0
+915,Viet Nam,Korea,0.0
 916,Viet Nam,Spain,0.0
 917,Viet Nam,Czechia,0.0
 918,Viet Nam,Poland,0.0
-919,Viet Nam,Russian Federation,0.0
-920,Viet Nam,"Taiwan, Province of China",0.0
+919,Viet Nam,Russia,0.0
+920,Viet Nam,Taiwan,0.0
 921,Viet Nam,Bulgaria,0.0
 922,Viet Nam,Hong Kong,0.0
 923,Viet Nam,Romania,0.0
@@ -953,7 +953,7 @@
 951,Viet Nam,Portugal,0.0
 952,Viet Nam,Denmark,0.0
 953,Viet Nam,Israel,0.0
-954,Viet Nam,"Moldova, Republic of",0.0
+954,Viet Nam,Moldova,0.0
 955,Viet Nam,Austria,0.0
 956,Viet Nam,Seychelles,0.0
 957,Japan,United States,0.0
@@ -962,9 +962,9 @@
 960,Japan,Czechia,0.0
 961,Japan,Poland,0.0
 962,Japan,Malaysia,0.0
-963,Japan,Russian Federation,0.0
+963,Japan,Russia,0.0
 964,Japan,China,0.0
-965,Japan,"Taiwan, Province of China",0.0
+965,Japan,Taiwan,0.0
 966,Japan,Bulgaria,0.0
 967,Japan,Hong Kong,0.0
 968,Japan,Romania,0.0
@@ -999,19 +999,19 @@
 997,Japan,Portugal,0.0
 998,Japan,Denmark,0.0
 999,Japan,Israel,0.0
-1000,Japan,"Moldova, Republic of",0.0
+1000,Japan,Moldova,0.0
 1001,Japan,Austria,0.0
 1002,Japan,Seychelles,0.0
 1003,Lithuania,United States,0.0
-1004,Lithuania,"Korea, Republic of",0.0
+1004,Lithuania,Korea,0.0
 1005,Lithuania,Spain,0.0
 1006,Lithuania,South Africa,0.0
 1007,Lithuania,Czechia,0.0
 1008,Lithuania,Poland,0.0
 1009,Lithuania,Malaysia,0.0
-1010,Lithuania,Russian Federation,0.0
+1010,Lithuania,Russia,0.0
 1011,Lithuania,China,0.0
-1012,Lithuania,"Taiwan, Province of China",0.0
+1012,Lithuania,Taiwan,0.0
 1013,Lithuania,Bulgaria,0.0
 1014,Lithuania,Hong Kong,0.0
 1015,Lithuania,Romania,0.0
@@ -1046,19 +1046,19 @@
 1044,Lithuania,Portugal,0.0
 1045,Lithuania,Denmark,0.0
 1046,Lithuania,Israel,0.0
-1047,Lithuania,"Moldova, Republic of",0.0
+1047,Lithuania,Moldova,0.0
 1048,Lithuania,Austria,0.0
 1049,Lithuania,Seychelles,0.0
 1050,Serbia,United States,0.0
-1051,Serbia,"Korea, Republic of",0.0
+1051,Serbia,Korea,0.0
 1052,Serbia,Spain,0.0
 1053,Serbia,South Africa,0.0
 1054,Serbia,Czechia,0.0
 1055,Serbia,Poland,0.0
 1056,Serbia,Malaysia,0.0
-1057,Serbia,Russian Federation,0.0
+1057,Serbia,Russia,0.0
 1058,Serbia,China,0.0
-1059,Serbia,"Taiwan, Province of China",0.0
+1059,Serbia,Taiwan,0.0
 1060,Serbia,Bulgaria,0.0
 1061,Serbia,Hong Kong,0.0
 1062,Serbia,Romania,0.0
@@ -1093,19 +1093,19 @@
 1091,Serbia,Portugal,0.0
 1092,Serbia,Denmark,0.0
 1093,Serbia,Israel,0.0
-1094,Serbia,"Moldova, Republic of",0.0
+1094,Serbia,Moldova,0.0
 1095,Serbia,Austria,0.0
 1096,Serbia,Seychelles,0.0
 1097,Australia,United States,0.0
-1098,Australia,"Korea, Republic of",0.0
+1098,Australia,Korea,0.0
 1099,Australia,Spain,0.0
 1100,Australia,South Africa,0.0
 1101,Australia,Czechia,0.0
 1102,Australia,Poland,0.0
 1103,Australia,Malaysia,0.0
-1104,Australia,Russian Federation,0.0
+1104,Australia,Russia,0.0
 1105,Australia,China,0.0
-1106,Australia,"Taiwan, Province of China",0.0
+1106,Australia,Taiwan,0.0
 1107,Australia,Bulgaria,0.0
 1108,Australia,Hong Kong,0.0
 1109,Australia,Romania,0.0
@@ -1140,19 +1140,19 @@
 1138,Australia,Portugal,0.0
 1139,Australia,Denmark,0.0
 1140,Australia,Israel,0.0
-1141,Australia,"Moldova, Republic of",0.0
+1141,Australia,Moldova,0.0
 1142,Australia,Austria,0.0
 1143,Australia,Seychelles,0.0
 1144,Kenya,United States,0.0
-1145,Kenya,"Korea, Republic of",0.0
+1145,Kenya,Korea,0.0
 1146,Kenya,Spain,0.0
 1147,Kenya,South Africa,0.0
 1148,Kenya,Czechia,0.0
 1149,Kenya,Poland,0.0
 1150,Kenya,Malaysia,0.0
-1151,Kenya,Russian Federation,0.0
+1151,Kenya,Russia,0.0
 1152,Kenya,China,0.0
-1153,Kenya,"Taiwan, Province of China",0.0
+1153,Kenya,Taiwan,0.0
 1154,Kenya,Bulgaria,0.0
 1155,Kenya,Hong Kong,0.0
 1156,Kenya,Romania,0.0
@@ -1187,19 +1187,19 @@
 1185,Kenya,Portugal,0.0
 1186,Kenya,Denmark,0.0
 1187,Kenya,Israel,0.0
-1188,Kenya,"Moldova, Republic of",0.0
+1188,Kenya,Moldova,0.0
 1189,Kenya,Austria,0.0
 1190,Kenya,Seychelles,0.0
 1191,Slovakia,United States,0.0
-1192,Slovakia,"Korea, Republic of",0.0
+1192,Slovakia,Korea,0.0
 1193,Slovakia,Spain,0.0
 1194,Slovakia,South Africa,0.0
 1195,Slovakia,Czechia,0.0
 1196,Slovakia,Poland,0.0
 1197,Slovakia,Malaysia,0.0
-1198,Slovakia,Russian Federation,0.0
+1198,Slovakia,Russia,0.0
 1199,Slovakia,China,0.0
-1200,Slovakia,"Taiwan, Province of China",0.0
+1200,Slovakia,Taiwan,0.0
 1201,Slovakia,Bulgaria,0.0
 1202,Slovakia,Hong Kong,0.0
 1203,Slovakia,Romania,0.0
@@ -1234,15 +1234,15 @@
 1232,Slovakia,Portugal,0.0
 1233,Slovakia,Denmark,0.0
 1234,Slovakia,Israel,0.0
-1235,Slovakia,"Moldova, Republic of",0.0
+1235,Slovakia,Moldova,0.0
 1236,Slovakia,Austria,0.0
 1237,Slovakia,Seychelles,0.0
 1238,India,United States,0.0
-1239,India,"Korea, Republic of",0.0
+1239,India,Korea,0.0
 1240,India,Spain,0.0
 1241,India,Czechia,0.0
 1242,India,Poland,0.0
-1243,India,"Taiwan, Province of China",0.0
+1243,India,Taiwan,0.0
 1244,India,Hong Kong,0.0
 1245,India,Romania,0.0
 1246,India,Peru,0.0
@@ -1272,19 +1272,19 @@
 1270,India,Portugal,0.0
 1271,India,Denmark,0.0
 1272,India,Israel,0.0
-1273,India,"Moldova, Republic of",0.0
+1273,India,Moldova,0.0
 1274,India,Austria,0.0
 1275,India,Seychelles,0.0
 1276,Chile,United States,0.0
-1277,Chile,"Korea, Republic of",0.0
+1277,Chile,Korea,0.0
 1278,Chile,Spain,0.0
 1279,Chile,South Africa,0.0
 1280,Chile,Czechia,0.0
 1281,Chile,Poland,0.0
 1282,Chile,Malaysia,0.0
-1283,Chile,Russian Federation,0.0
+1283,Chile,Russia,0.0
 1284,Chile,China,0.0
-1285,Chile,"Taiwan, Province of China",0.0
+1285,Chile,Taiwan,0.0
 1286,Chile,Bulgaria,0.0
 1287,Chile,Hong Kong,0.0
 1288,Chile,Romania,0.0
@@ -1319,19 +1319,19 @@
 1317,Chile,Portugal,0.0
 1318,Chile,Denmark,0.0
 1319,Chile,Israel,0.0
-1320,Chile,"Moldova, Republic of",0.0
+1320,Chile,Moldova,0.0
 1321,Chile,Austria,0.0
 1322,Chile,Seychelles,0.0
 1323,Canada,United States,0.0
-1324,Canada,"Korea, Republic of",0.0
+1324,Canada,Korea,0.0
 1325,Canada,Spain,0.0
 1326,Canada,South Africa,0.0
 1327,Canada,Czechia,0.0
 1328,Canada,Poland,0.0
 1329,Canada,Malaysia,0.0
-1330,Canada,Russian Federation,0.0
+1330,Canada,Russia,0.0
 1331,Canada,China,0.0
-1332,Canada,"Taiwan, Province of China",0.0
+1332,Canada,Taiwan,0.0
 1333,Canada,Bulgaria,0.0
 1334,Canada,Hong Kong,0.0
 1335,Canada,Romania,0.0
@@ -1366,19 +1366,19 @@
 1364,Canada,Portugal,0.0
 1365,Canada,Denmark,0.0
 1366,Canada,Israel,0.0
-1367,Canada,"Moldova, Republic of",0.0
+1367,Canada,Moldova,0.0
 1368,Canada,Austria,0.0
 1369,Canada,Seychelles,0.0
 1370,Liechtenstein,United States,0.0
-1371,Liechtenstein,"Korea, Republic of",0.0
+1371,Liechtenstein,Korea,0.0
 1372,Liechtenstein,Spain,0.0
 1373,Liechtenstein,South Africa,0.0
 1374,Liechtenstein,Czechia,0.0
 1375,Liechtenstein,Poland,0.0
 1376,Liechtenstein,Malaysia,0.0
-1377,Liechtenstein,Russian Federation,0.0
+1377,Liechtenstein,Russia,0.0
 1378,Liechtenstein,China,0.0
-1379,Liechtenstein,"Taiwan, Province of China",0.0
+1379,Liechtenstein,Taiwan,0.0
 1380,Liechtenstein,Bulgaria,0.0
 1381,Liechtenstein,Hong Kong,0.0
 1382,Liechtenstein,Romania,0.0
@@ -1413,19 +1413,19 @@
 1411,Liechtenstein,Portugal,0.0
 1412,Liechtenstein,Denmark,0.0
 1413,Liechtenstein,Israel,0.0
-1414,Liechtenstein,"Moldova, Republic of",0.0
+1414,Liechtenstein,Moldova,0.0
 1415,Liechtenstein,Austria,0.0
 1416,Liechtenstein,Seychelles,0.0
 1417,Singapore,United States,0.0
-1418,Singapore,"Korea, Republic of",0.0
+1418,Singapore,Korea,0.0
 1419,Singapore,Spain,0.0
 1420,Singapore,South Africa,0.0
 1421,Singapore,Czechia,0.0
 1422,Singapore,Poland,0.0
 1423,Singapore,Malaysia,0.0
-1424,Singapore,Russian Federation,0.0
+1424,Singapore,Russia,0.0
 1425,Singapore,China,0.0
-1426,Singapore,"Taiwan, Province of China",0.0
+1426,Singapore,Taiwan,0.0
 1427,Singapore,Bulgaria,0.0
 1428,Singapore,Hong Kong,0.0
 1429,Singapore,Romania,0.0
@@ -1460,19 +1460,19 @@
 1458,Singapore,Portugal,0.0
 1459,Singapore,Denmark,0.0
 1460,Singapore,Israel,0.0
-1461,Singapore,"Moldova, Republic of",0.0
+1461,Singapore,Moldova,0.0
 1462,Singapore,Austria,0.0
 1463,Singapore,Seychelles,0.0
 1464,Indonesia,United States,0.0
-1465,Indonesia,"Korea, Republic of",0.0
+1465,Indonesia,Korea,0.0
 1466,Indonesia,Spain,0.0
 1467,Indonesia,South Africa,0.0
 1468,Indonesia,Czechia,0.0
 1469,Indonesia,Poland,0.0
 1470,Indonesia,Malaysia,0.0
-1471,Indonesia,Russian Federation,0.0
+1471,Indonesia,Russia,0.0
 1472,Indonesia,China,0.0
-1473,Indonesia,"Taiwan, Province of China",0.0
+1473,Indonesia,Taiwan,0.0
 1474,Indonesia,Bulgaria,0.0
 1475,Indonesia,Hong Kong,0.0
 1476,Indonesia,Romania,0.0
@@ -1507,19 +1507,19 @@
 1505,Indonesia,Portugal,0.0
 1506,Indonesia,Denmark,0.0
 1507,Indonesia,Israel,0.0
-1508,Indonesia,"Moldova, Republic of",0.0
+1508,Indonesia,Moldova,0.0
 1509,Indonesia,Austria,0.0
 1510,Indonesia,Seychelles,0.0
 1511,New Zealand,United States,0.0
-1512,New Zealand,"Korea, Republic of",0.0
+1512,New Zealand,Korea,0.0
 1513,New Zealand,Spain,0.0
 1514,New Zealand,South Africa,0.0
 1515,New Zealand,Czechia,0.0
 1516,New Zealand,Poland,0.0
 1517,New Zealand,Malaysia,0.0
-1518,New Zealand,Russian Federation,0.0
+1518,New Zealand,Russia,0.0
 1519,New Zealand,China,0.0
-1520,New Zealand,"Taiwan, Province of China",0.0
+1520,New Zealand,Taiwan,0.0
 1521,New Zealand,Hong Kong,0.0
 1522,New Zealand,Romania,0.0
 1523,New Zealand,Peru,0.0
@@ -1550,19 +1550,19 @@
 1548,New Zealand,Portugal,0.0
 1549,New Zealand,Denmark,0.0
 1550,New Zealand,Israel,0.0
-1551,New Zealand,"Moldova, Republic of",0.0
+1551,New Zealand,Moldova,0.0
 1552,New Zealand,Austria,0.0
 1553,New Zealand,Seychelles,0.0
 1554,Luxembourg,United States,0.0
-1555,Luxembourg,"Korea, Republic of",0.0
+1555,Luxembourg,Korea,0.0
 1556,Luxembourg,Spain,0.0
 1557,Luxembourg,South Africa,0.0
 1558,Luxembourg,Czechia,0.0
 1559,Luxembourg,Poland,0.0
 1560,Luxembourg,Malaysia,0.0
-1561,Luxembourg,Russian Federation,0.0
+1561,Luxembourg,Russia,0.0
 1562,Luxembourg,China,0.0
-1563,Luxembourg,"Taiwan, Province of China",0.0
+1563,Luxembourg,Taiwan,0.0
 1564,Luxembourg,Bulgaria,0.0
 1565,Luxembourg,Hong Kong,0.0
 1566,Luxembourg,Romania,0.0
@@ -1597,19 +1597,19 @@
 1595,Luxembourg,Portugal,0.0
 1596,Luxembourg,Denmark,0.0
 1597,Luxembourg,Israel,0.0
-1598,Luxembourg,"Moldova, Republic of",0.0
+1598,Luxembourg,Moldova,0.0
 1599,Luxembourg,Austria,0.0
 1600,Luxembourg,Seychelles,0.0
 1601,Belize,United States,0.0
-1602,Belize,"Korea, Republic of",0.0
+1602,Belize,Korea,0.0
 1603,Belize,Spain,0.0
 1604,Belize,South Africa,0.0
 1605,Belize,Czechia,0.0
 1606,Belize,Poland,0.0
 1607,Belize,Malaysia,0.0
-1608,Belize,Russian Federation,0.0
+1608,Belize,Russia,0.0
 1609,Belize,China,0.0
-1610,Belize,"Taiwan, Province of China",0.0
+1610,Belize,Taiwan,0.0
 1611,Belize,Bulgaria,0.0
 1612,Belize,Hong Kong,0.0
 1613,Belize,Romania,0.0
@@ -1644,19 +1644,19 @@
 1642,Belize,Portugal,0.0
 1643,Belize,Denmark,0.0
 1644,Belize,Israel,0.0
-1645,Belize,"Moldova, Republic of",0.0
+1645,Belize,Moldova,0.0
 1646,Belize,Austria,0.0
 1647,Belize,Seychelles,0.0
 1648,Colombia,United States,0.0
-1649,Colombia,"Korea, Republic of",0.0
+1649,Colombia,Korea,0.0
 1650,Colombia,Spain,0.0
 1651,Colombia,South Africa,0.0
 1652,Colombia,Czechia,0.0
 1653,Colombia,Poland,0.0
 1654,Colombia,Malaysia,0.0
-1655,Colombia,Russian Federation,0.0
+1655,Colombia,Russia,0.0
 1656,Colombia,China,0.0
-1657,Colombia,"Taiwan, Province of China",0.0
+1657,Colombia,Taiwan,0.0
 1658,Colombia,Bulgaria,0.0
 1659,Colombia,Hong Kong,0.0
 1660,Colombia,Romania,0.0
@@ -1691,7 +1691,7 @@
 1689,Colombia,Portugal,0.0
 1690,Colombia,Denmark,0.0
 1691,Colombia,Israel,0.0
-1692,Colombia,"Moldova, Republic of",0.0
+1692,Colombia,Moldova,0.0
 1693,Colombia,Austria,0.0
 1694,Colombia,Seychelles,0.0
 1695,Turkey,United States,0.0
@@ -1701,7 +1701,7 @@
 1699,Turkey,Poland,0.0
 1700,Turkey,Malaysia,0.0
 1701,Turkey,China,0.0
-1702,Turkey,"Taiwan, Province of China",0.0
+1702,Turkey,Taiwan,0.0
 1703,Turkey,Bulgaria,0.0
 1704,Turkey,Hong Kong,0.0
 1705,Turkey,Romania,0.0
@@ -1735,19 +1735,19 @@
 1733,Turkey,Portugal,0.0
 1734,Turkey,Denmark,0.0
 1735,Turkey,Israel,0.0
-1736,Turkey,"Moldova, Republic of",0.0
+1736,Turkey,Moldova,0.0
 1737,Turkey,Austria,0.0
 1738,Turkey,Seychelles,0.0
 1739,Brazil,United States,0.0
-1740,Brazil,"Korea, Republic of",0.0
+1740,Brazil,Korea,0.0
 1741,Brazil,Spain,0.0
 1742,Brazil,South Africa,0.0
 1743,Brazil,Czechia,0.0
 1744,Brazil,Poland,0.0
 1745,Brazil,Malaysia,0.0
-1746,Brazil,Russian Federation,0.0
+1746,Brazil,Russia,0.0
 1747,Brazil,China,0.0
-1748,Brazil,"Taiwan, Province of China",0.0
+1748,Brazil,Taiwan,0.0
 1749,Brazil,Bulgaria,0.0
 1750,Brazil,Hong Kong,0.0
 1751,Brazil,Romania,0.0
@@ -1782,19 +1782,19 @@
 1780,Brazil,Portugal,0.0
 1781,Brazil,Denmark,0.0
 1782,Brazil,Israel,0.0
-1783,Brazil,"Moldova, Republic of",0.0
+1783,Brazil,Moldova,0.0
 1784,Brazil,Austria,0.0
 1785,Brazil,Seychelles,0.0
 1786,Sweden,United States,0.0
-1787,Sweden,"Korea, Republic of",0.0
+1787,Sweden,Korea,0.0
 1788,Sweden,Spain,0.0
 1789,Sweden,South Africa,0.0
 1790,Sweden,Czechia,0.0
 1791,Sweden,Poland,0.0
 1792,Sweden,Malaysia,0.0
-1793,Sweden,Russian Federation,0.0
+1793,Sweden,Russia,0.0
 1794,Sweden,China,0.0
-1795,Sweden,"Taiwan, Province of China",0.0
+1795,Sweden,Taiwan,0.0
 1796,Sweden,Bulgaria,0.0
 1797,Sweden,Hong Kong,0.0
 1798,Sweden,Romania,0.0
@@ -1829,19 +1829,19 @@
 1827,Sweden,Portugal,0.0
 1828,Sweden,Denmark,0.0
 1829,Sweden,Israel,0.0
-1830,Sweden,"Moldova, Republic of",0.0
+1830,Sweden,Moldova,0.0
 1831,Sweden,Austria,0.0
 1832,Sweden,Seychelles,0.0
 1833,Iceland,United States,0.0
-1834,Iceland,"Korea, Republic of",0.0
+1834,Iceland,Korea,0.0
 1835,Iceland,Spain,0.0
 1836,Iceland,South Africa,0.0
 1837,Iceland,Czechia,0.0
 1838,Iceland,Poland,0.0
 1839,Iceland,Malaysia,0.0
-1840,Iceland,Russian Federation,0.0
+1840,Iceland,Russia,0.0
 1841,Iceland,China,0.0
-1842,Iceland,"Taiwan, Province of China",0.0
+1842,Iceland,Taiwan,0.0
 1843,Iceland,Bulgaria,0.0
 1844,Iceland,Hong Kong,0.0
 1845,Iceland,Romania,0.0
@@ -1876,19 +1876,19 @@
 1874,Iceland,Portugal,0.0
 1875,Iceland,Denmark,0.0
 1876,Iceland,Israel,0.0
-1877,Iceland,"Moldova, Republic of",0.0
+1877,Iceland,Moldova,0.0
 1878,Iceland,Austria,0.0
 1879,Iceland,Seychelles,0.0
 1880,Finland,United States,0.0
-1881,Finland,"Korea, Republic of",0.0
+1881,Finland,Korea,0.0
 1882,Finland,Spain,0.0
 1883,Finland,South Africa,0.0
 1884,Finland,Czechia,0.0
 1885,Finland,Poland,0.0
 1886,Finland,Malaysia,0.0
-1887,Finland,Russian Federation,0.0
+1887,Finland,Russia,0.0
 1888,Finland,China,0.0
-1889,Finland,"Taiwan, Province of China",0.0
+1889,Finland,Taiwan,0.0
 1890,Finland,Bulgaria,0.0
 1891,Finland,Hong Kong,0.0
 1892,Finland,Romania,0.0
@@ -1923,19 +1923,19 @@
 1921,Finland,Portugal,0.0
 1922,Finland,Denmark,0.0
 1923,Finland,Israel,0.0
-1924,Finland,"Moldova, Republic of",0.0
+1924,Finland,Moldova,0.0
 1925,Finland,Austria,0.0
 1926,Finland,Seychelles,0.0
 1927,Algeria,United States,0.0
-1928,Algeria,"Korea, Republic of",0.0
+1928,Algeria,Korea,0.0
 1929,Algeria,Spain,0.0
 1930,Algeria,South Africa,0.0
 1931,Algeria,Czechia,0.0
 1932,Algeria,Poland,0.0
 1933,Algeria,Malaysia,0.0
-1934,Algeria,Russian Federation,0.0
+1934,Algeria,Russia,0.0
 1935,Algeria,China,0.0
-1936,Algeria,"Taiwan, Province of China",0.0
+1936,Algeria,Taiwan,0.0
 1937,Algeria,Bulgaria,0.0
 1938,Algeria,Hong Kong,0.0
 1939,Algeria,Romania,0.0
@@ -1970,19 +1970,19 @@
 1968,Algeria,Portugal,0.0
 1969,Algeria,Denmark,0.0
 1970,Algeria,Israel,0.0
-1971,Algeria,"Moldova, Republic of",0.0
+1971,Algeria,Moldova,0.0
 1972,Algeria,Austria,0.0
 1973,Algeria,Seychelles,0.0
 1974,Portugal,United States,0.0
-1975,Portugal,"Korea, Republic of",0.0
+1975,Portugal,Korea,0.0
 1976,Portugal,Spain,0.0
 1977,Portugal,South Africa,0.0
 1978,Portugal,Czechia,0.0
 1979,Portugal,Poland,0.0
 1980,Portugal,Malaysia,0.0
-1981,Portugal,Russian Federation,0.0
+1981,Portugal,Russia,0.0
 1982,Portugal,China,0.0
-1983,Portugal,"Taiwan, Province of China",0.0
+1983,Portugal,Taiwan,0.0
 1984,Portugal,Bulgaria,0.0
 1985,Portugal,Hong Kong,0.0
 1986,Portugal,Romania,0.0
@@ -2017,19 +2017,19 @@
 2015,Portugal,Algeria,0.0
 2016,Portugal,Denmark,0.0
 2017,Portugal,Israel,0.0
-2018,Portugal,"Moldova, Republic of",0.0
+2018,Portugal,Moldova,0.0
 2019,Portugal,Austria,0.0
 2020,Portugal,Seychelles,0.0
 2021,Denmark,United States,0.0
-2022,Denmark,"Korea, Republic of",0.0
+2022,Denmark,Korea,0.0
 2023,Denmark,Spain,0.0
 2024,Denmark,South Africa,0.0
 2025,Denmark,Czechia,0.0
 2026,Denmark,Poland,0.0
 2027,Denmark,Malaysia,0.0
-2028,Denmark,Russian Federation,0.0
+2028,Denmark,Russia,0.0
 2029,Denmark,China,0.0
-2030,Denmark,"Taiwan, Province of China",0.0
+2030,Denmark,Taiwan,0.0
 2031,Denmark,Bulgaria,0.0
 2032,Denmark,Hong Kong,0.0
 2033,Denmark,Romania,0.0
@@ -2064,19 +2064,19 @@
 2062,Denmark,Algeria,0.0
 2063,Denmark,Portugal,0.0
 2064,Denmark,Israel,0.0
-2065,Denmark,"Moldova, Republic of",0.0
+2065,Denmark,Moldova,0.0
 2066,Denmark,Austria,0.0
 2067,Denmark,Seychelles,0.0
 2068,Israel,United States,0.0
-2069,Israel,"Korea, Republic of",0.0
+2069,Israel,Korea,0.0
 2070,Israel,Spain,0.0
 2071,Israel,South Africa,0.0
 2072,Israel,Czechia,0.0
 2073,Israel,Poland,0.0
 2074,Israel,Malaysia,0.0
-2075,Israel,Russian Federation,0.0
+2075,Israel,Russia,0.0
 2076,Israel,China,0.0
-2077,Israel,"Taiwan, Province of China",0.0
+2077,Israel,Taiwan,0.0
 2078,Israel,Bulgaria,0.0
 2079,Israel,Hong Kong,0.0
 2080,Israel,Romania,0.0
@@ -2111,66 +2111,66 @@
 2109,Israel,Algeria,0.0
 2110,Israel,Portugal,0.0
 2111,Israel,Denmark,0.0
-2112,Israel,"Moldova, Republic of",0.0
+2112,Israel,Moldova,0.0
 2113,Israel,Austria,0.0
 2114,Israel,Seychelles,0.0
-2115,"Moldova, Republic of",United States,0.0
-2116,"Moldova, Republic of","Korea, Republic of",0.0
-2117,"Moldova, Republic of",Spain,0.0
-2118,"Moldova, Republic of",South Africa,0.0
-2119,"Moldova, Republic of",Czechia,0.0
-2120,"Moldova, Republic of",Poland,0.0
-2121,"Moldova, Republic of",Malaysia,0.0
-2122,"Moldova, Republic of",Russian Federation,0.0
-2123,"Moldova, Republic of",China,0.0
-2124,"Moldova, Republic of","Taiwan, Province of China",0.0
-2125,"Moldova, Republic of",Bulgaria,0.0
-2126,"Moldova, Republic of",Hong Kong,0.0
-2127,"Moldova, Republic of",Romania,0.0
-2128,"Moldova, Republic of",Peru,0.0
-2129,"Moldova, Republic of",Hungary,0.0
-2130,"Moldova, Republic of",Norway,0.0
-2131,"Moldova, Republic of",Mexico,0.0
-2132,"Moldova, Republic of",Ukraine,0.0
-2133,"Moldova, Republic of",Netherlands,0.0
-2134,"Moldova, Republic of",Viet Nam,0.0
-2135,"Moldova, Republic of",Japan,0.0
-2136,"Moldova, Republic of",Lithuania,0.0
-2137,"Moldova, Republic of",Serbia,0.0
-2138,"Moldova, Republic of",Australia,0.0
-2139,"Moldova, Republic of",Kenya,0.0
-2140,"Moldova, Republic of",Slovakia,0.0
-2141,"Moldova, Republic of",India,0.0
-2142,"Moldova, Republic of",Chile,0.0
-2143,"Moldova, Republic of",Canada,0.0
-2144,"Moldova, Republic of",Liechtenstein,0.0
-2145,"Moldova, Republic of",Singapore,0.0
-2146,"Moldova, Republic of",Indonesia,0.0
-2147,"Moldova, Republic of",New Zealand,0.0
-2148,"Moldova, Republic of",Luxembourg,0.0
-2149,"Moldova, Republic of",Belize,0.0
-2150,"Moldova, Republic of",Colombia,0.0
-2151,"Moldova, Republic of",Turkey,0.0
-2152,"Moldova, Republic of",Brazil,0.0
-2153,"Moldova, Republic of",Sweden,0.0
-2154,"Moldova, Republic of",Iceland,0.0
-2155,"Moldova, Republic of",Finland,0.0
-2156,"Moldova, Republic of",Algeria,0.0
-2157,"Moldova, Republic of",Portugal,0.0
-2158,"Moldova, Republic of",Denmark,0.0
-2159,"Moldova, Republic of",Israel,0.0
-2160,"Moldova, Republic of",Austria,0.0
-2161,"Moldova, Republic of",Seychelles,0.0
+2115,Moldova,United States,0.0
+2116,Moldova,Korea,0.0
+2117,Moldova,Spain,0.0
+2118,Moldova,South Africa,0.0
+2119,Moldova,Czechia,0.0
+2120,Moldova,Poland,0.0
+2121,Moldova,Malaysia,0.0
+2122,Moldova,Russia,0.0
+2123,Moldova,China,0.0
+2124,Moldova,Taiwan,0.0
+2125,Moldova,Bulgaria,0.0
+2126,Moldova,Hong Kong,0.0
+2127,Moldova,Romania,0.0
+2128,Moldova,Peru,0.0
+2129,Moldova,Hungary,0.0
+2130,Moldova,Norway,0.0
+2131,Moldova,Mexico,0.0
+2132,Moldova,Ukraine,0.0
+2133,Moldova,Netherlands,0.0
+2134,Moldova,Viet Nam,0.0
+2135,Moldova,Japan,0.0
+2136,Moldova,Lithuania,0.0
+2137,Moldova,Serbia,0.0
+2138,Moldova,Australia,0.0
+2139,Moldova,Kenya,0.0
+2140,Moldova,Slovakia,0.0
+2141,Moldova,India,0.0
+2142,Moldova,Chile,0.0
+2143,Moldova,Canada,0.0
+2144,Moldova,Liechtenstein,0.0
+2145,Moldova,Singapore,0.0
+2146,Moldova,Indonesia,0.0
+2147,Moldova,New Zealand,0.0
+2148,Moldova,Luxembourg,0.0
+2149,Moldova,Belize,0.0
+2150,Moldova,Colombia,0.0
+2151,Moldova,Turkey,0.0
+2152,Moldova,Brazil,0.0
+2153,Moldova,Sweden,0.0
+2154,Moldova,Iceland,0.0
+2155,Moldova,Finland,0.0
+2156,Moldova,Algeria,0.0
+2157,Moldova,Portugal,0.0
+2158,Moldova,Denmark,0.0
+2159,Moldova,Israel,0.0
+2160,Moldova,Austria,0.0
+2161,Moldova,Seychelles,0.0
 2162,Austria,United States,0.0
-2163,Austria,"Korea, Republic of",0.0
+2163,Austria,Korea,0.0
 2164,Austria,Spain,0.0
 2165,Austria,South Africa,0.0
 2166,Austria,Czechia,0.0
 2167,Austria,Poland,0.0
 2168,Austria,Malaysia,0.0
-2169,Austria,Russian Federation,0.0
+2169,Austria,Russia,0.0
 2170,Austria,China,0.0
-2171,Austria,"Taiwan, Province of China",0.0
+2171,Austria,Taiwan,0.0
 2172,Austria,Bulgaria,0.0
 2173,Austria,Hong Kong,0.0
 2174,Austria,Romania,0.0
@@ -2206,18 +2206,18 @@
 2204,Austria,Portugal,0.0
 2205,Austria,Denmark,0.0
 2206,Austria,Israel,0.0
-2207,Austria,"Moldova, Republic of",0.0
+2207,Austria,Moldova,0.0
 2208,Austria,Seychelles,0.0
 2209,Seychelles,United States,0.0
-2210,Seychelles,"Korea, Republic of",0.0
+2210,Seychelles,Korea,0.0
 2211,Seychelles,Spain,0.0
 2212,Seychelles,South Africa,0.0
 2213,Seychelles,Czechia,0.0
 2214,Seychelles,Poland,0.0
 2215,Seychelles,Malaysia,0.0
-2216,Seychelles,Russian Federation,0.0
+2216,Seychelles,Russia,0.0
 2217,Seychelles,China,0.0
-2218,Seychelles,"Taiwan, Province of China",0.0
+2218,Seychelles,Taiwan,0.0
 2219,Seychelles,Bulgaria,0.0
 2220,Seychelles,Hong Kong,0.0
 2221,Seychelles,Romania,0.0
@@ -2253,5 +2253,5 @@
 2251,Seychelles,Portugal,0.0
 2252,Seychelles,Denmark,0.0
 2253,Seychelles,Israel,0.0
-2254,Seychelles,"Moldova, Republic of",0.0
+2254,Seychelles,Moldova,0.0
 2255,Seychelles,Austria,0.0
