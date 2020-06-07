@@ -2,8 +2,9 @@
 
 This directory contains code for manipulating ICLab data as well as scraped data from various sources as specified in the repo README.
 
+Below are explanations of key files.
+
 ### ICLab Data
-Below are explanations of key files:
 - **iclab-data-files** : calculates similarity indices, lists of all overlapping domains between country pairs *from ICLab data*
   - similarity index data => data/iclab_combined_similarities.json
   - country-specific pair domain data => data/iclab_common_domains
