@@ -4,7 +4,7 @@ The code in this demo generates a proxy of policy alignment: similarities in web
 
 ## Using our data
 
-To use our data, simply [download the CSV of computed metrics](blob/master/data/metrics.csv).
+To use our data, simply [download the CSV of computed metrics](https://github.com/daylight-lab/uclab-data-processing/blob/master/data/metrics.csv).
 
 To replicate our metrics, clone this repo and follow the instructions in the Jupyter notebook in `notebooks/`. All required data are included in `data/` or linked to in the notebook.
 
