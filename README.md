@@ -4,9 +4,9 @@ The code in this demo generates a proxy of policy alignment: similarities in web
 
 ## Using our data
 
-To use our data, simply [download the CSV of computed metrics](https://github.com/daylight-lab/website-blocking-proxy/blob/master/data/metrics.csv). `Overall_Similarity` is the proxy measure. Subscores represent censored category similarity (simliarity of content blocked) and blocking proportion similarity (proportion of observations that result in blocking; a proxy for blocking volume).
+[See the codebook and download our data here](https://github.com/daylight-lab/website-blocking-proxy/tree/master/output).
 
-To replicate our metrics, clone this repo and follow the instructions in the Jupyter notebook in `notebooks/`. All required data are included in `data/` or linked to in the notebook.
+To replicate our metrics, clone this repo and follow the instructions in the Jupyter notebook in `notebooks/`.
 
 ## Acknowledgements
 Currently, the demo is [using measurements taken by the Information Controls Lab (ICLab)](https://iclab.org/post/iclab_data/).
