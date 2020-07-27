@@ -8,8 +8,8 @@ This folder contains all of our computed metrics.
 This CSV file contains similarity metrics between all country pairs in our dataset.
 
 - `pair` - A tuple of alpha-2 country codes (e.g., `('CO', 'PE')`).
-- `country_code_alpha2_A` - The country code of the country A (e.g., 'CO')
-- `country_code_alpha2_B` - The country code of the country A (e.g., 'PE')
+- `country_code_alpha2_A` - The country code of the country A (e.g., `'CO'`)
+- `country_code_alpha2_B` - The country code of the country A (e.g., `'PE'`)
 - `country_code_alpha3_A`/`B` - Same as above, but with alpha-3 country code (e.g., `COL`/`PER`).
 - `Censored_Category_Similarity` - Simliarity of content blocked. Computed as cosine distance between content blocking category proportions (see `metadata.csv`).
 - `Blocking_Proportion_Similarity` - Similarity of blocking volume. Compute as absolute value of the difference between country A and country B's proportion of observations that resulted in blocking.
